@@ -1,16 +1,23 @@
-### Hi there 👋
+I-M-Rahul/README.md
 
-<!--
-**It-s-Rahul/It-s-Rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi,I'M Rahul Kumar
 
-Here are some ideas to get you started:
+💼 Having 6 month in Java Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👇👇 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐁𝐞𝐥𝐨𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬👇👇
+
+ ➡ Spring MVC, Spring Boot, Microservice, JPA, Hibernate & MyBatis.
+
+ ➡ Angular Js, React Js, Html, Javascript, JQuery, BootStraps & CSS.
+
+ ➡ Oracle, MySQL, MongoDB & pgAdmin.
+
+ ➡ Apache Kafka, Redis, Solar, Docker and various technologies.
+ 
+🌱 I’m currently learning Azure Sql Database Administrator
+
+👀 I’m interested in Java Full Stack Development and DBA
+
+💞️ I’m looking to collaborate on Industries_Health Projects.
+
+📫 You can reach me on 📧 rahulkumaryadav1298@gmail.com.
