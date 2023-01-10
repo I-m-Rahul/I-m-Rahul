@@ -1,4 +1,4 @@
-I-M-Rahul/README.md
+I-M-Rahul
 
 👋 Hi,I'M Rahul Kumar
 
