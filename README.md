@@ -2,7 +2,7 @@ I-M-Rahul
 
 👋 Hi,I'M Rahul Kumar
 
-💼 Having 1 year in internship Java Full Stack Development.
+💼 Having 1 year in internship Java Full Stack Development and 1 year Admin Access.
 
 👇👇 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐁𝐞𝐥𝐨𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬👇👇
 
